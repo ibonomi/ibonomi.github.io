@@ -1,6 +1,7 @@
 body{background-image: url('https://wallpaperset.com/w/full/d/d/5/462750.jpg'); font-family:'Montserrat' }
-h1, h2 {font-family:'Montserrat'}
-h1{font-size: 1.9em; text-align:center;}
-p {font-size: 1.2em; text-align:center;}
-p1 {font-size: 1.2em}
+h1, h2, button {font-family:'Montserrat'; margin-right: 100px; margin-left: 100px;}
+h1{font-family:'Montserrat'; font-size: 1.9em; text-align:center;}
+p {font-family:'Montserrat'; font-size: 1.2em; text-align:center;}
+p1,ul, button {font-family:'Montserrat'; font-size: 1.2em; margin-right: 100px; margin-left: 100px;}
+button {color: blue}
 
